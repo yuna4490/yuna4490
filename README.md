@@ -20,10 +20,10 @@
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
  </div>
  
- <div align=center>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuna4490&show_icons=true&theme=radical)
+<div align=center>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuna4490&show_icons=true&theme=radical)
   
-  <h3> 💡 Problem Solving 💡 </h3>
+ <h3> 💡 Problem Solving 💡 </h3>
  
  [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuna0125)](https://solved.ac/yuna0125)
