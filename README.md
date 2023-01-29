@@ -16,7 +16,9 @@
   <p> Tools </p>
  </div>
  
-<div align=center>
+<br>
+
+<div align="center">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
  </div>
