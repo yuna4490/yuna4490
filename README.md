@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuna4490&show_icons=true&theme=radical)
