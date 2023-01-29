@@ -28,8 +28,6 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
  
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuna4490&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=yuna4490&show_icons=true">
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuna4490&show_icons=true&theme=radical)
  
  ## 💡 Problem Solving 💡
