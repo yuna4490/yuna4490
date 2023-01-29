@@ -18,10 +18,16 @@ Here are some ideas to get you started:
 -->
 
  ## 📚 Tech Stack 📚
+ ### Platforms & Languages
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
  <img src="https://img.shields.io/badge/React Native-09D3AC?style=for-the-badge&logo=Create React App&logoColor=white"/>
+ <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
+ 
+ ### Tools
+ <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
+ <img src="https://img.shields.io/badgeIntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
  
  ## 💡 Problem Solving 💡
  [![Solved.ac
