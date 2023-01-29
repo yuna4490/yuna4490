@@ -29,11 +29,12 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
  
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuna4490&show_icons=true&theme=radical)
+ 
  ## 💡 Problem Solving 💡
  [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuna0125)](https://solved.ac/yuna0125)
-  
- ## GitHub Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuna4490&show_icons=true&theme=radical)
+
+
 
   </div>
