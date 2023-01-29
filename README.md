@@ -1,6 +1,6 @@
 <div align=center>
-  <h3> 📚 Tech Stack 📚 </h3>
-  <p> Platforms & Languages </p>
+  <h2> 📚 Tech Stack 📚 </h2>
+  <h3> Platforms & Languages </h3>
  </div>
  
  <div align="center">
@@ -13,7 +13,7 @@
 </div>
 <br>
 <div align=center>
-  <p> Tools </p>
+  <h3> Tools </h3>
  </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
@@ -25,7 +25,7 @@
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuna4490&show_icons=true&theme=radical)
   
- <h3> 💡 Problem Solving 💡 </h3>
+ <h2> 💡 Problem Solving 💡 </h2>
  
  [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuna0125)](https://solved.ac/yuna0125)
