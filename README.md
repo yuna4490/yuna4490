@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- ## 🌟 Tech Stack 🌟
- <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
- <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
- <img src="https://img.shields.io/badge/React Native-09D3AC?style=flat&logo=Create React App&logoColor=white"/>
+ ## 📚 Tech Stack 📚
+ <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+ <img src="https://img.shields.io/badge/React Native-09D3AC?style=for-the-badge&logo=Create React App&logoColor=white"/>
  
- ## ✏️ Problem Solving ✏️
+ ## 💡 Problem Solving 💡
  [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuna0125)](https://solved.ac/yuna0125)
   
