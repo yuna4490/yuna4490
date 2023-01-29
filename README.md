@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  
  ## ✏️ Problem Solving ✏️
  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={yuna0125})](https://solved.ac/{yuna0125})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuna0125)](https://solved.ac/yuna0125)
   
  ## GitHub Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuna4490&show_icons=true&theme=radical)
