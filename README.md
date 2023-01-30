@@ -20,6 +20,7 @@
   <h3> Tools </h3>
  </div>
 <div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
  </div>
